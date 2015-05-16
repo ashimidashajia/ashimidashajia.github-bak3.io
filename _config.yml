@@ -5,8 +5,8 @@ highlighter:  pygments
 lsi:          false
 excerpt_separator: "\n\n"
 
-#kramdown:
-#  input: GFM
+kramdown:
+  input: GFM
 
 # 作者信息
 author: 
